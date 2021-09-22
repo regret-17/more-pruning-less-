@@ -78,32 +78,32 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Twitter Download Gif&Video](https://greasyfork.org/en/scripts/390723-twitter-download-gif-video) Adds a little button on twitter gif and videos to more easily download them.
 
 ### BetterDiscord Plugins
-[BetterDiscord](https://betterdiscord.app/) Obviously you need BetterDiscord it's self to use it's features. Basically a modloader for Discord.
-[BetterDiscord Plugins](https://betterdiscord.app/plugins) The plugins section of the betterdiscord website, obviously you can find more plugins here.
-[Discord Experiments](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/discordexperiments.plugin.js) Lets you toggle on and off discord beta features in a new tab of your user-settings. This is a feature made for discord beta testers which isn't a very well kept secret. Highly recommend toggling "Activities Experiment" to "all activities" so you can play Poker, Chess, and watch YouTube all within a discord call.  
-[BDFDB](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/) Required Library for a lot of plugins made by DevilBro, who's heavily involved and very prolific in the scene. A lot of plugins are dependant on it.
-[Zere's Plugin Library](https://github.com/rauenzi/BDPluginLibrary) Gives other plugins utility functions and emulation capability. A lot of plugins are dependant on it.
-[Favorite Media](https://github.com/Dastan21/BDAddons/blob/main/plugins/FavoriteMedia) Lets you "star" all types of media, whereas discord only supports gif for some reason.
-[Discord Free Emojis](https://github.com/An00nymushun/DiscordFreeEmojis) If you dont have nitro, will re-enable the emoji picker/typing, and paste the emoji as image links.
-[Image Utilities](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ImageUtilities/) Adds image features like gallery, zoom, reverse image search, and more.
-[Notification Sounds](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/NotificationSounds/) Lets you set custom sounds for basically anything that makes a sound in discord (calling, messaging, connecting, disconnecting, muting, everything)
-[Better Folders](https://github.com/Zerthox/BetterDiscord-Plugins) Lets you create icons for folders. This page also includes links to a few other of the author's plugins.
-[Better Role Colors](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/BetterRoleColors) Adds server-based role colors to typing, voice, popouts, modals, etc.
-[Call Time Counter](https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/CallTimeCounter) Shows you how long you've been in a call
-[Clickable Mentions](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ClickableMentions/) Allows you to open a User Popout by clicking a Mention in your Message Input
-[Gif Saver](https://github.com/bepvte/bd-addons) Backs up your favorited gifs and restores them if discord removes them. Doesn't work for other media favorited with Favorite Media i dont believe. Link also includes some other addons made by the author.
-[Guild Profile](https://github.com/jaimeadf/BetterDiscordPlugins/tree/release/src/GuildProfile) You know how users have profiles when you click their name? That but for servers.
-[Hide Channels](https://github.com/CapnKitten/BetterDiscord/tree/master/Plugins/HideChannels) Lets you minimize the channel list so that the chat takes up more window space.
-[Last Message Date](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/LastMessageDate/) Displays the Last Message Date of a Member for the current Server/DM
-[Link Profile Picture](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/linkProfilePicture.plugin.js) Lets you click users' avatars on their profile page to view a bigger version in your browser
-[Link Banner](https://github.com/Echological/LinkBanner-BD/blob/856988b26db0e7c1c3895931a3735cd7b6ac0211/LinkBanner.plugin.js) Same thing as above but for a user's banner.
-[Member Count](https://github.com/Arashiryuu/crap/tree/master/ToastIntegrated/MemberCount) Lets you easily see how many members a server has.
-[Open Steam Links In App](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OpenSteamLinksInApp/) Steam links will open in steam instead of in browser
-[Quick Delete Messages](https://github.com/Inve1951/BetterDiscordStuff/blob/master/coffee/QuickDeleteMessages.plugin.coffee) Hold the delete key and click a message to delete it.
-[Reddit Mentions](https://github.com/vBread/bd-contributions/tree/master/RedditMentions) Links to reddit if someone says something like "u/User" or "r/Subreddit"
-[Split Large Messages](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SplitLargeMessages) if you type more characters than discord lets you send in one message, it'll cut it, then automatically send the rest of what the message would have been in a second message, and a 3rd, and so on.
-[Spotify Listen Along](https://github.com/ordinall/BetterDiscord-Stuff/tree/master/Plugins/SpotifyListenAlong/) Allows using the listen along feature without preimum.
-[Typing Indicator](https://github.com/l0c4lh057/BetterDiscordStuff/tree/master/Plugins/TypingIndicator) adds an indicator for when someone is typing in a channel or server without having to look at the channel.
+- [BetterDiscord](https://betterdiscord.app/) Obviously you need BetterDiscord it's self to use it's features. Basically a modloader for Discord.
+- [BetterDiscord Plugins](https://betterdiscord.app/plugins) The plugins section of the betterdiscord website, obviously you can find more plugins here.
+- [Discord Experiments](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/discordexperiments.plugin.js) Lets you toggle on and off discord beta features in a new tab of your user-settings. This is a feature made for discord beta testers which isn't a very well kept secret. Highly recommend toggling "Activities Experiment" to "all activities" so you can play Poker, Chess, and watch YouTube all within a discord call.  
+- [BDFDB](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/) Required Library for a lot of plugins made by DevilBro, who's heavily involved and very prolific in the scene. A lot of plugins are dependant on it.
+- [Zere's Plugin Library](https://github.com/rauenzi/BDPluginLibrary) Gives other plugins utility functions and emulation capability. A lot of plugins are dependant on it.
+- [Favorite Media](https://github.com/Dastan21/BDAddons/blob/main/plugins/FavoriteMedia) Lets you "star" all types of media, whereas discord only supports gif for some reason.
+- [Discord Free Emojis](https://github.com/An00nymushun/DiscordFreeEmojis) If you dont have nitro, will re-enable the emoji picker/typing, and paste the emoji as image links.
+- [Image Utilities](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ImageUtilities/) Adds image features like gallery, zoom, reverse image search, and more.
+- [Notification Sounds](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/NotificationSounds/) Lets you set custom sounds for basically anything that makes a sound in discord (calling, messaging, connecting, disconnecting, muting, everything)
+- [Better Folders](https://github.com/Zerthox/BetterDiscord-Plugins) Lets you create icons for folders. This page also includes links to a few other of the author's plugins.
+- [Better Role Colors](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/BetterRoleColors) Adds server-based role colors to typing, voice, popouts, modals, etc.
+- [Call Time Counter](https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/CallTimeCounter) Shows you how long you've been in a call
+- [Clickable Mentions](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ClickableMentions/) Allows you to open a User Popout by clicking a Mention in your Message Input
+- [Gif Saver](https://github.com/bepvte/bd-addons) Backs up your favorited gifs and restores them if discord removes them. Doesn't work for other media favorited with Favorite Media i dont believe. Link also includes some other addons made by the author.
+- [Guild Profile](https://github.com/jaimeadf/BetterDiscordPlugins/tree/release/src/GuildProfile) You know how users have profiles when you click their name? That but for servers.
+- [Hide Channels](https://github.com/CapnKitten/BetterDiscord/tree/master/Plugins/HideChannels) Lets you minimize the channel list so that the chat takes up more window space.
+- [Last Message Date](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/LastMessageDate/) Displays the Last Message Date of a Member for the current Server/DM
+- [Link Profile Picture](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/linkProfilePicture.plugin.js) Lets you click users' avatars on their profile page to view a bigger version in your browser
+- [Link Banner](https://github.com/Echological/LinkBanner-BD/blob/856988b26db0e7c1c3895931a3735cd7b6ac0211/LinkBanner.plugin.js) Same thing as above but for a user's banner.
+- [Member Count](https://github.com/Arashiryuu/crap/tree/master/ToastIntegrated/MemberCount) Lets you easily see how many members a server has.
+- [Open Steam Links In App](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OpenSteamLinksInApp/) Steam links will open in steam instead of in browser
+- [Quick Delete Messages](https://github.com/Inve1951/BetterDiscordStuff/blob/master/coffee/QuickDeleteMessages.plugin.coffee) Hold the delete key and click a message to delete it.
+- [Reddit Mentions](https://github.com/vBread/bd-contributions/tree/master/RedditMentions) Links to reddit if someone says something like "u/User" or "r/Subreddit"
+- [Split Large Messages](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SplitLargeMessages) if you type more characters than discord lets you send in one message, it'll cut it, then automatically send the rest of what the message would have been in a second message, and a 3rd, and so on.
+- [Spotify Listen Along](https://github.com/ordinall/BetterDiscord-Stuff/tree/master/Plugins/SpotifyListenAlong/) Allows using the listen along feature without preimum.
+- [Typing Indicator](https://github.com/l0c4lh057/BetterDiscordStuff/tree/master/Plugins/TypingIndicator) adds an indicator for when someone is typing in a channel or server without having to look at the channel.
 
 
 ## Programs
