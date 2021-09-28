@@ -118,6 +118,7 @@ Some items in this list could easily fit in more than one category, so to make s
 ## Cool Stuff
 - [Earthbound Battle Backgrounds](https://github.kdex.de/earthbound-battle-backgrounds) Generator for moving earthbound backgrounds. up/down/left/right arrows for controlls.
 - [Sierra Text Generator](http://deathgenerator.com/) Also known as Death Generator. Lets you create custom text boxes in the style of a ton of different games.
+- [15.ai](https://15.ai/) Accurate text to speech generator which mimicks characters from multiple franchises. Has a history of going down for a long time to be worked on, released for a short period, and so on. So make what you need while you have the chance.
 - [PetPet](https://benisland.neocities.org/petpet/) Tool for creating those petting gifs memes. 
 - [KidPix](https://kidpix.app/) A port of KidPix to browser
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
