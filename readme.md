@@ -29,7 +29,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) A huge curated list of piracy resources. Some of the links are outdated, but the source is incredibly invaluable none-the-less.
 - [Archive.org](https://archive.org/) Home of the wayback-machine. Basically the library of the internet as far as media is concerned. So much is on here it's rediculous. If you're in a collection, be sure to view all files on the right panel if you're looking for a specific file. Some may require you to sign in.
 - [The Proxy Bay](https://proxybay.github.io/) List of mirror sites pulling from The Pirate Bay's database. Visiting the pirate bay directly is sketchy these days, but it's database will always be invaluable. Do note however that in more recent times, their collection has become more and more unmoderated over time, so tred with caution.
-- [YayPonies](https://yayponies.no/) basically all official digital media for the My Little Pony franchise. Show, Movie, Comic Books, Bonus features, etc. They also link to sister sites hosting Star Vs The Forces of Evil and Wander Over Yonder content (and depercated Ducktales and Steven Universe content).  
+- [YayPonies](https://yayponies.no/) basically all official digital media for the My Little Pony franchise. Show, Movie, Comic Books, Bonus features, etc. They also link to sister sites hosting Star Vs The Forces of Evil and Wander Over Yonder content (and deprecated Ducktales and Steven Universe content).  
 
 
 ## Videogames
