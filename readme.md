@@ -84,6 +84,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Discord Experiments](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/discordexperiments.plugin.js) Lets you toggle on and off discord beta features in a new tab of your user-settings. This is a feature made for discord beta testers which isn't a very well kept secret. Highly recommend toggling "Activities Experiment" to "all activities" so you can play Poker, Chess, and watch YouTube all within a discord call.  
 - [BDFDB](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/) Required Library for a lot of plugins made by DevilBro, who's heavily involved and very prolific in the scene. A lot of plugins are dependant on it.
 - [Zere's Plugin Library](https://github.com/rauenzi/BDPluginLibrary) Gives other plugins utility functions and emulation capability. A lot of plugins are dependant on it.
+- [Do Not Track](https://betterdiscord.app/plugin/DoNotTrack) HELPS to stop discord from invading your privacy. Know that discord by it's design is not privacy friendly. Mark my words, there will come a day that discord's data leaks and all their plaintext messages become public, your DMs included.
 - [Favorite Media](https://github.com/Dastan21/BDAddons/blob/main/plugins/FavoriteMedia) Lets you "star" all types of media, whereas discord only supports gif for some reason.
 - [Discord Free Emojis](https://github.com/An00nymushun/DiscordFreeEmojis) If you dont have nitro, will re-enable the emoji picker/typing, and paste the emoji as image links.
 - [Image Utilities](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ImageUtilities/) Adds image features like gallery, zoom, reverse image search, and more.
@@ -125,6 +126,8 @@ Some items in this list could easily fit in more than one category, so to make s
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
 
 ## Other
+- [Privacy Guides](https://privacyguides.org/) Basically the authority in protecting your privacy and making your digital life more secure.
+- [FOSS Front-Ends](https://gitlab.com/FSMdotCOM/foss-front-ends-and-alternatives) Free Open Source Software alternatives to and tools to various popular services, such as many social media platforms.
 - [Catbox.moe](https://catbox.moe/) A nice, free, minimum bullshit image and file cloud. Also check out [Litterbox](https://litterbox.catbox.moe/) for hosting files which are temporary in nature and can just be deleted whenever.
 - [Photopea](https://www.photopea.com/) A port of Adobe Photoshop to browser. Too good to be true and yet somehow it is. Works better than it has any right to. Use [Photopea Adblock](https://userstyles.org/styles/178522/adblock-photopea) as well. uBlock already blocks ads on photopea, but the space is still reserved for the ad. Using this will fill the whole screen and remove the adspace. This is a [userscript](#userscripts).
 - [Erowid](https://www.erowid.org/) A website dedicated to harm-reduction and education for a number of drugs. Includes sitable and non-sitable information (such as personal experiences, opinion pieces, media writings, etc., etc.,)
