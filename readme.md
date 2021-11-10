@@ -2,7 +2,7 @@
 
 > A personal "fork" of [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy). and [Awesome](https://github.com/sindresorhus/awesome#readme) lists in general.
 
-Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
+Please ensure you use [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time. (To be honest, you should always have this in general)
 
 ## How to use this list
 Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
