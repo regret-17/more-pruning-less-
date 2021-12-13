@@ -118,6 +118,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [List of Adobe Alternatives](https://twitter.com/XdanielArt/status/1434611199140896772) Sick list of alternatives to adobe suite software. Useful for linux or if you just hate adobe (But, of course, pirating their software will always be moral :P )
 
 ## Cool Stuff
+- [Super Mario War (SMWStuff Continuation)](https://github.com/mmatyas/supermariowar) a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. Super fun party game. Basically, Duck Game, before Duck Game, with goomba stomps. If you're not sold [here's a video showcasing the game and talking about it's history](https://www.youtube.com/watch?v=RqS7ad_BFg4)
 - [Earthbound Battle Backgrounds](https://github.kdex.de/earthbound-battle-backgrounds) Generator for moving earthbound backgrounds. up/down/left/right arrows for controlls.
 - [Sierra Text Generator](http://deathgenerator.com/) Also known as Death Generator. Lets you create custom text boxes in the style of a ton of different games.
 - [15.ai](https://15.ai/) Accurate text to speech generator which mimicks characters from multiple franchises. Has a history of going down for a long time to be worked on, released for a short period, and so on. So make what you need while you have the chance.
