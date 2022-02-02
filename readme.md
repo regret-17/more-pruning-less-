@@ -63,7 +63,7 @@ Some items in this list could easily fit in more than one category, so to make s
 
 ### Browser-Extensions
 - [uBlock Origin](https://github.com/gorhill/uBlock) Adblocker, malware blocker, and tracker blocker. Blocks the visible AND invisible shittyness that comes with ads and other bullshit like them. A must install.
-- [Reveye Reverse Image Search Chrome](https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/reveye-ris/) Reverse image searcher, super useful since google doesn't always give you the image you're looking for. I normally have a lot of luck with Yandex, which this offers support for.
+- [Image Search Options](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/) Reverse image searcher, super useful since google doesn't always give you the image you're looking for.
 - [Sponsorblock](https://github.com/ajayyy/SponsorBlock) Skip youtube sponsors. Works better than you'd think it would. Also offers options to skip recaps, non-music sections of music videos, self-promo, and more.
 - [DarkReader](https://darkreader.org/) A quick way to make websites dark which dont have a dark theme. Though i'd still recommend native dark themes for websites if they support the feature, as sometimes dark reader can hide elements which are supposed to be visible. Able to be toggled on a per-website basis, and toggleable with a hotkey.
 - [Tampermonkey](https://www.tampermonkey.net/) An extension that lets you load userscripts. Think of them like modifications to websites, without being their own full extension. If an extension has a userscript version, jump for it. Your ram will thank you. You can find userscripts I use below.
