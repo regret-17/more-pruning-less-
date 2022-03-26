@@ -19,7 +19,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Addons](#addons)
     - [Browser Extensions](#browser-extensions)
     - [Userscripts](#userscripts)
-    - [BetterDiscord Plugins](#betterdiscord-plugins)
+    - [Discord Modifications](#discord-modifications)
 - [Programs](#programs)
 - [Cool Stuff](#cool-stuff)
 - [Other](#other)
