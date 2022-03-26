@@ -79,8 +79,9 @@ Some items in this list could easily fit in more than one category, so to make s
 - [BetterTTV](https://betterttv.com/) More emotes, features, etc for twitch. Select "other" browser even if your browser is supported for the userscript.
 - [Twitter Download Gif&Video](https://greasyfork.org/en/scripts/390723-twitter-download-gif-video) Adds a little button on twitter gif and videos to more easily download them.
 
-### BetterDiscord Plugins
-- [BetterDiscord](https://betterdiscord.app/) Obviously you need BetterDiscord it's self to use it's features. Basically a modloader for Discord.
+### Discord Modifications
+- [BetterDiscord](https://betterdiscord.app/) Betterdiscord is a modification client for Discord on desktop. The below plugins are for it.
+- [Aliucord](https://github.com/Aliucord/Aliucord) Aliucord is a modified client for Discord on mobile. You need to [join their server](https://discord.gg/EsNDvBaHVU) if you want access to their plugins as they're stored there in a convienet to download way. I'm also told it helps with tracking and privacy, but I have yet to verify that.
 - [BetterDiscord Plugins](https://betterdiscord.app/plugins) The plugins section of the betterdiscord website, obviously you can find more plugins here.
 - [Discord Experiments](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/discordexperiments.plugin.js) Lets you toggle on and off discord beta features in a new tab of your user-settings. This is a feature made for discord beta testers which isn't a very well kept secret. Highly recommend toggling "Activities Experiment" to "all activities" so you can play Poker, Chess, and watch YouTube all within a discord call.  
 - [BDFDB](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/) Required Library for a lot of plugins made by DevilBro, who's heavily involved and very prolific in the scene. A lot of plugins are dependant on it.
