@@ -128,6 +128,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
 
 ## Other
+- [diyhrt.github.io](https://diyhrt.github.io/) Do It Yourself Horomone Replacement Therapy. Especially useful if the system is failing you (underdosing, gatekeeping), but even barring that it's an alternative to be considered to give you more control over your transition and possibly even save you some dosh.
 - [Privacy Guides](https://privacyguides.org/) Basically the authority in protecting your privacy and making your digital life more secure.
 - [FOSS Front-Ends](https://gitlab.com/FSMdotCOM/foss-front-ends-and-alternatives) Free Open Source Software alternatives to and tools to various popular services, such as many social media platforms.
 - [Catbox.moe](https://catbox.moe/) A nice, free, minimum bullshit image and file cloud. Also check out [Litterbox](https://litterbox.catbox.moe/) for hosting files which are temporary in nature and can just be deleted whenever.
