@@ -31,6 +31,7 @@
 - [The Proxy Bay](https://proxybay.github.io/) List of mirror sites pulling from The Pirate Bay's database. Visiting the pirate bay directly is sketchy these days, but it's database will always be invaluable. Do note however that in more recent times, their collection has become more and more unmoderated over time, so tred with caution.
 - [Rarbg](https://rarbg.to/) Movie torrenting site. Use [Rarbg Proxy](https://rarbg-proxy.github.io/) if it's blocked in your country.
 - [Piracy.moe](https://piracy.moe/) Previously known as the anime index, a spreadsheet for anime, manga, and other weeb piracy warez
+- [Soulseek](https://www.slsknet.org/) Peer-to-Peer network for (mostly) music piracy. A lot like how Limewire worked. If you're on Linux use [Nicotine+](https://nicotine-plus.org/) to access soulseek.
 - [YayPonies](https://yayponies.no/) basically all official digital media for the My Little Pony franchise. Show, Movie, Comic Books, Bonus features, etc. They also link to sister sites hosting Star Vs The Forces of Evil and Wander Over Yonder content (and deprecated Ducktales and Steven Universe content).
 
 ### Media-Servers
