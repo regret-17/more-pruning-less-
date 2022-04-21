@@ -54,6 +54,7 @@
 - [Archive.org WiiWare Collection by Ghostware](https://archive.org/details/WiiWareCollectionByGhostware) Full .wad set for WiiWare downloadable games from the Wii Shop Channel, virtual console included.
 - [NXBrew](https://nxbrew.com/) Site hosting Nintendo Switch NSPs (games).
 - [r/CrackWatch](https://old.reddit.com/r/CrackWatch/) Gaming piracy subreddit. Will tell you who cracked a game and removed it's DRM if a game has been cracked, which should give you enough information on where to find said cracked game. Also carries with it other useful info. Be sure to read the beginners guide on the sidebar.
+- [Pirated Games Mega Thread](https://rentry.co/pgames-mega-thread) Lists resources curated by those at r/CrackWatch, as well as some anti-recommendations so you know what to watch out for. Anything on my list superseeds anything here (at least for me) obviously.  
 - [Fitgirl Repacks](https://fitgirl-repacks.site/) Repacks for more modern games. (Repacks are compressed versions of games, meaning they're inherently not going to be fully accurate, but I've rarely had problems). As for other repackers, fitgirl endources RG Mechanics, RG Revenants, RG Catalyst, Xatab, El Amigos, Kapital Sin, and KaosKrew (rips). However I've never had to use them.
 - [Free GOG Games](https://freegogpcgames.com/) Free release for every game on GOG, since they're all DRM free.
 
