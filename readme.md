@@ -1,7 +1,7 @@
 # Sighofrelief's List
 
 - Please ensure you use [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time. (To be honest, you should always have this in general).
-- Notice any typos, errors, out of date info? Have suggestions or questions? Please contact me on [my Twitter](https://twitter.com/sighrelief)!
+- Notice any typos, errors, broken links, or out of date info? Have suggestions or questions? Please contact me on [my Twitter](https://twitter.com/sighrelief)!
 
 ## What is this list, How do i use it?
 - This list is basically just a collection of things I personally use, or think are useful, cool, or neat! I made it to both shine light on things I think deserve more attention, and to provide those I know with a useful list about how to do things or what services are good.
@@ -47,7 +47,7 @@
 - [Magnet Games](https://magnet-games.com/index.php) Cute website that has torrents for complete game sets to most retro consoles. Click a console in the header, go to anything/collections, and you'll want to torrent no-intro if it's available for that console. Curate the list in your torrent manager from there.
 - [Old Games Finder](http://www.oldgamesfinder.com/) Search engine to find copies of old PC games. Some sites it may lead you to are paid, but not all.
 - [Vimm's Lair](https://vimm.net/?p=vault) Okay piracy site for downloading individual retro games, however limits the numbers of downloads you can have running at once, and can be quite slow.
-- [EmuParadise](https://www.emuparadise.me/Complete_ROM_Sets_(Full_Sets_in_One_File)_ROMs/List-All-Titles/37) Famous rom site that was sued by nintendo a few years back. Hasn't been the same sense, but is still useful. Some games have been delisted by the site's search engine, so use 3rd party search engines to search games on their database.
+- [EmuParadise](https://www.emuparadise.me/Complete_ROM_Sets_(Full_Sets_in_One_File)_ROMs/List-All-Titles/37) Famous rom site that was sued by nintendo a few years back. Hasn't been the same since, but is still useful. Some games have been delisted by the site's search engine, so use 3rd party search engines to search games on their database.
     -[EmuParadise Workaround Script](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad) Is a [userscript](#userscripts) to allow downloading of games from EmuParadise again. Since nintendo sued them years ago. Most if not all the roms are still on their servers, they just removed the download links. On a game page use "download with workaround script".
 - [Archive.org Gamecube Collection by Ghostware](https://archive.org/details/GamecubeCollectionByGhostware) Full North American ISO set of gamecube games. Be sure to log in and either show all files and pick which you want, or get the torrent and manage from there in your torrent manager.
 - [Archive.org Wii Collection by Ghostware](https://archive.org/details/WiiRomSetByGhostware), [Part 2](https://archive.org/details/WiiRomSetByGhostwarePart2), [Part 3](https://archive.org/details/WiiRomSetByGhostwarePart3) 3 part collection of commercial Wii games.
