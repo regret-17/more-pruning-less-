@@ -65,7 +65,8 @@
 - Emulator Compatability Lists. Basically, for any given emulator, they'll list all games for the console they're emulating, and how well they're emulated. In the case of the [Dolphin Wiki](https://wiki.dolphin-emu.org/index.php?title=Main_Page) they'll even list optimal emulator settings, enhancements, and more for individual games.
 
 ### Videogame-Other
-- [Hacking & Homebrew](https://rentry.co/Guides) From the homebrew threads on 4chan's /vg/ board. Follow any guide here for it's respective console and you wont have any trouble if you have basic reading comprehension. The anons in the thread are generally pretty helpful if you actually did your reading and couldn't find an answer. Also provides links to piracy websites in the post-instillation sections.
+- [Hacking & Homebrew](https://rentry.co/Guides) From the homebrew threads on 4chan's /vg/ board. Follow any guide here for it's respective console and you wont have any trouble if you have basic reading comprehension. Also provides links to piracy websites in the post-instillation sections.
+    - [webcfw](https://webcfw.sdsetup.com/) Nintendo Switch Payload Loader that works in chromium browsers. For booting into switch hacks. 
 - [SteamGridDB](https://www.steamgriddb.com/) Database of cover assets for Steam, since a lot of games are missing covers and the like. Includes non-steam games as well, in case you put those in your steam library.
 
 
@@ -155,7 +156,8 @@
 
 
 ## Cool Stuff
-- [Super Mario War (SMWStuff Continuation)](https://github.com/mmatyas/supermariowar) a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. Super fun party game. Basically, Duck Game, before Duck Game, with goomba stomps. If you're not sold [here's a video showcasing the game and talking about it's history](https://www.youtube.com/watch?v=RqS7ad_BFg4)
+- [Super Mario War (SMWStuff Continuation)](https://github.com/mmatyas/supermariowar) A fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. Super fun party game. Basically, Duck Game, before Duck Game, with goomba stomps. If you're not sold [here's a video showcasing the game and talking about it's history](https://www.youtube.com/watch?v=RqS7ad_BFg4)
+- [Power Bomberman](https://www.bombermanboard.com/viewtopic.php?t=1925) A feature-rich Bomberman fangame. supports up to 12 players, has over 650 characters, over 70 stages, and an unpresedented level of settings to tweak.
 - [Earthbound Battle Backgrounds](https://github.kdex.de/earthbound-battle-backgrounds) Generator for moving earthbound backgrounds. up/down/left/right arrows for controlls.
 - [Sierra Text Generator](http://deathgenerator.com/) Also known as Death Generator. Lets you create custom text boxes in the style of a ton of different games.
 - [15.ai](https://15.ai/) Accurate text to speech generator which mimicks characters from multiple franchises. Has a history of going down for a long time to be worked on, released for a short period, and so on. So make what you need while you have the chance.
@@ -165,7 +167,7 @@
 
 
 ## Other
-- [diyhrt.github.io](https://diyhrt.github.io/) Do It Yourself Horomone Replacement Therapy. Especially useful if the system is failing you (underdosing, gatekeeping), but even barring that it's an alternative to be considered to give you more control over your transition and possibly even save you some dosh. Both feminizing and masculinizing horomone replacements are covered.
+- [diyhrt.github.io](https://diyhrt.github.io/) Do It Yourself Horomone Replacement Therapy. Especially useful if the system is failing you (underdosing, gatekeeping), but even barring that it's an alternative to be considered to give you more control over your transition and possibly even save you some dosh. Both feminizing and masculinizing horomone replacements are covered. Also just a good resource for learning about hrt and it's effects in general.
 - [Catbox.moe](https://catbox.moe/) A nice, free, minimum bullshit image and file cloud. Also check out [Litterbox](https://litterbox.catbox.moe/) for hosting files which are temporary in nature and can just be deleted whenever.
 - [Photopea](https://www.photopea.com/) A port of Adobe Photoshop to browser. Too good to be true and yet somehow it is. Works better than it has any right to. Use [Photopea Adblock](https://userstyles.org/styles/178522/adblock-photopea) as well. uBlock already blocks ads on photopea, but the space is still reserved for the ad. Using this will fill the whole screen and remove the adspace. This is a [userscript](#userscripts).
 - [Erowid](https://www.erowid.org/) A website dedicated to harm-reduction and education for a number of drugs. Includes sitable and non-sitable information (such as personal experiences, opinion pieces, media writings, etc., etc.,)
