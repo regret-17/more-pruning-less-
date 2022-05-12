@@ -31,6 +31,7 @@
 - [The Proxy Bay](https://proxybay.github.io/) List of mirror sites pulling from The Pirate Bay's database. Visiting the pirate bay directly is sketchy these days, but it's database will always be invaluable. Do note however that in more recent times, their collection has become more and more unmoderated over time, so tred with caution.
 - [Rarbg](https://rarbg.to/) Movie torrenting site. Use [Rarbg Proxy](https://rarbg-proxy.github.io/) if it's blocked in your country.
 - [Piracy.moe](https://piracy.moe/) Previously known as the anime index, a spreadsheet for anime, manga, and other weeb piracy warez
+- [Nyaa.si](https://nyaa.si/) Anime torrenting database. Probably the best out there. My first line of fire for anime piracy. [sukebei.nyaa.si](sukebei.nyaa.si) is their NSFW counterpart.
 - [Soulseek](https://www.slsknet.org/) Peer-to-Peer network for (mostly) music piracy. A lot like how Limewire worked. If you're on Linux use [Nicotine+](https://nicotine-plus.org/) to access soulseek.
 - [YayPonies](https://yayponies.no/) basically all official digital media for the My Little Pony franchise. Show, Movie, Comic Books, Bonus features, etc. They also link to sister sites hosting Star Vs The Forces of Evil and Wander Over Yonder content (and deprecated Ducktales and Steven Universe content).
 
@@ -164,6 +165,7 @@
 - [PetPet](https://benisland.neocities.org/petpet/) Tool for creating those petting gifs memes. 
 - [KidPix](https://kidpix.app/) A port of KidPix to browser
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
+- [Nostalgic Kids' Sites](http://nostalgiakidssites.com/) An archival project managed by [Rare Noggin Stuff](https://www.youtube.com/c/RareNogginStuff) that's dedicated to hosting 00's and 10's websites aimed at pre-school children. Hosts snapshots of Nick Jr., Nick Jr. Playtime, PBS Kids, and PBS Sprout at the time of writing.
 
 
 ## Other
