@@ -116,6 +116,7 @@
 - [Twitter Download Gif&Video](https://greasyfork.org/en/scripts/390723-twitter-download-gif-video) Adds a little button on twitter gif and videos to more easily download them.
 
 ### Discord Modifications
+- [Rebane's Discord Color Text Generator](https://rebane2001.com/discord-colored-text-generator/) NOT an addon, just a website that lets you generate colored text for discord. [Here's a video explaining it](https://www.youtube.com/watch?v=VtdOJCEIpvQ)
 - [BetterDiscord](https://betterdiscord.app/) Betterdiscord is a modification client for Discord on desktop. The below plugins are for it.
 - [Aliucord](https://github.com/Aliucord/Aliucord) Aliucord is a modified client for Discord on mobile. You need to [join their server](https://discord.gg/EsNDvBaHVU) if you want access to their plugins as they're stored there in a convienet to download way. I'm also told it helps with tracking and privacy, but I have yet to verify that.
 - [BetterDiscord Plugins](https://betterdiscord.app/plugins) The plugins section of the betterdiscord website, obviously you can find more plugins here.
