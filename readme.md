@@ -155,7 +155,7 @@
 - [ShareX](https://getsharex.com/) Best screenshot software there is. Still sad there isn't a linux version. The next best thing for linux is [Flameshot](https://github.com/flameshot-org/flameshot)
 - [Open Broadcast Software (OBS)](https://obsproject.com/) Best video recording and streaming software there is. Pretty self-explanitory.
 - [List of Adobe Alternatives](https://twitter.com/XdanielArt/status/1434611199140896772) Sick list of alternatives to adobe suite software. Useful for linux or if you just hate adobe (But, of course, pirating their software will always be moral :P )
-
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/) Command line program for downloading vids from youtube and [others](https://ytdl-org.github.io/youtube-dl/supportedsites.html), including mp3s and thumbnails. No more "youtube download mp3" searching for you. Albeit, if you insist on using a website, [AllTube](https://alltubedownload.net/) is a website that uses youtube-dl for it's backend. If you dont want to use command line, you can also get [youtube-dl GUI](https://github.com/jely2002/youtube-dl-gui).
 
 ## Cool Stuff
 - [Super Mario War (SMWStuff Continuation)](https://github.com/mmatyas/supermariowar) A fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. Super fun party game. Basically, Duck Game, before Duck Game, with goomba stomps. If you're not sold [here's a video showcasing the game and talking about it's history](https://www.youtube.com/watch?v=RqS7ad_BFg4)
