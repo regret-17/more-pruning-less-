@@ -44,13 +44,9 @@
 - [r/CrackWatch](https://old.reddit.com/r/CrackWatch/) Gaming piracy subreddit. Will tell you who cracked a game and removed it's DRM if a game has been cracked, which should give you enough information on where to find said cracked game. Also carries with it other useful info. Be sure to read the beginners guide on the sidebar.
 - [Pirated Games Mega Thread](https://rentry.co/pgames-mega-thread) Lists resources curated by those at r/CrackWatch, as well as some anti-recommendations so you know what to watch out for. Anything on my list superseeds anything here (at least for me) obviously.  
 - [Fitgirl Repacks](https://fitgirl-repacks.site/) Repacks for more modern games. (Repacks are compressed versions of games, meaning they're inherently not going to be fully accurate, but I've rarely had problems). As for other repackers, fitgirl endources RG Mechanics, RG Revenants, RG Catalyst, Xatab, El Amigos, Kapital Sin, and KaosKrew (rips). However I've never had to use them.
-- [Free GOG Games](https://freegogpcgames.com/) Free release for every game on GOG, since they're all DRM free.
 
 ### Videogame-Emulation
 - [Emulation Wiki](https://emulation.gametechwiki.com/) A wiki on videogame emulation. Extremely useful if you want to compare and contrast features of emulators for a given console. Especially good for figuring out what the best given emulator for a console is.
-- [Retroarch](https://www.retroarch.com/)  The frontend for libretro. Nice if you want to have all your retro games in one place, navigatable with a controller, and especially useful if you're looking to use it's unique features (netplay, shaders, etc). Download emulators as cores from within the program, scan for your games, and then run the game with their respective core. Easier than it sounds. I prefer it to standalone counterparts for most emulators, but not all. Also sick for emulating on console, I have retroarch installed on my Switch, for example. Switch Online SNES and NES library be damned. 
-     - I would like to note however, that if you do not need to use retroarch, I would avoid it. There's been a lot of claims of abusive behavior from one of the lead developers, TwinAphex. Including potentially contributing to Near's suicide, and driving devs to quit projects and leave the emu scene (ex duckstation's lead developer). I'm having trouble finding much definitive information on it all, but I'd be remiss not to mention it. Hopefully the scene creates a competetive alternative some day. If you're on mac, I'd recommend [OpenEmu](https://openemu.org/) above retroarch in most cases anyhow.
-- Emulator Compatability Lists. Basically, for any given emulator, they'll list all games for the console they're emulating, and how well they're emulated. In the case of the [Dolphin Wiki](https://wiki.dolphin-emu.org/index.php?title=Main_Page) they'll even list optimal emulator settings, enhancements, and more for individual games.
 
 ### Videogame-Other
 - [Hacking & Homebrew](https://rentry.co/Guides) From the homebrew threads on 4chan's /vg/ board. Follow any guide here for it's respective console and you wont have any trouble if you have basic reading comprehension. Also provides links to piracy websites in the post-instillation sections.
@@ -59,6 +55,7 @@
 
 
 ## Privacy
+- [KeePass](https://keepass.info/) The only password manager worth a damn. Open-source, audited, and regulary updated.
 - [Privacy Guides](https://privacyguides.org/) Basically the authority in protecting your privacy and making your digital life more secure, in my opinion.
 - [Techlore](https://www.youtube.com/c/Techlore) A YouTube channel that posts super helpful recommendations and guides on all things privacy. Also hosts a weekly show called [Surveillance Report](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CZemCIsHUIuEtugAmUxAYHS) which recaps news and important events in the quickly everchanging world of privacy. They also have a [website](https://techlore.tech).
 - [FOSS Front-Ends](https://gitlab.com/FSMdotCOM/foss-front-ends-and-alternatives) Free Open Source Software alternatives to and tools to various popular services, such as many social media platforms.
@@ -67,9 +64,6 @@
 - [ArouraStore](auroraoss.com) A FOSS alternative to the Play Store. Lets you download apps from the playstore without signing in to Google, and without giving Google any real data about you. Also includes a section under every app showing how many trackers it has if they've been reported to the database. It is available on F-Droid.
 - [Insular](https://gitlab.com/secure-system/Insular) A FOSS app that sandboxes apps you select into a seperate profile which can be turned on and off. Good for keeping apps which you dont trust to send as little data about you as possible, as well as make sure they're all turned off entirely when insular's profile is turned off. It is available on F-Droid.
 - [NewPipe](https://newpipe.net/) A FOSS app that lets you watch YouTube on your phone without signing in to Google. It also allows you to download videos, listen to them in the background, skip ads, and skip sponsored segments. Basically everything YouTube Preimum offers and more. Also supports bandcamp and soundcloud for music streaming. It is available on F-Droid.
-- [DuckDuckGo](https://duckduckgo.com/) Privacy focused Google alternative. Help stop the Google monopoly today! Don't "Google it", ask your duck!
-- [ProtonMail](https://protonmail.com) Privacy focused e-mail service. Their frontpage is a little bit misleading about what it can do, and quite frankly e-mail just is plain not a private protocol, but at least they're not selling your data. Will not protect you from feds (no e-mail service will).
-- [Bitwarden](https://bitwarden.com/) Best password manager that I know of. Free, secure, private, and functional.
 
 
 ### VPNs
