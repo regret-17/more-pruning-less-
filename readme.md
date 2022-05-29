@@ -1,7 +1,6 @@
 # Regretful's List (More Pruning, Less Trash!)
 
 - Please ensure you use [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time. (To be honest, you should always have this in general).
-- Notice any typos, errors, broken links, or out of date info? Have suggestions or questions? Please contact me on [my Twitter](https://twitter.com/sighrelief)!
 
 ## What is this list, How do i use it?
 - This list is basically just a collection of things I personally use, or think are useful, cool, or neat! I made it to both shine light on things I think deserve more attention, and to provide those I know with a useful list about how to do things or what services are good.
