@@ -11,7 +11,7 @@
     - [Other](#videogame-other)
 - [Privacy](#privacy)
     - [FOSS AOSP Essentials](#foss-aosp-essentials)
-    - [FOSS AOSP Recommended Apps](#foss-aosp-apps)
+    - [FOSS AOSP Recommended Apps](#foss-aosp-recommended-apps)
     - [AOSP Other](#aosp-other)
 - [Addons](#addons)
     - [Browser Extensions](#browser-extensions)
@@ -68,7 +68,7 @@
 - [F-Droid](https://f-droid.org/) : FOSS Android App Repository. All apps listed below are available on F-Droid.
 - [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) : A very good complementary repository for F-Droid.
 
-### FOSS-AOSP-Apps
+### FOSS-AOSP-Recommended-Apps
 - [KeePassDX](https://www.keepassdx.com/) : Android port of KeePass.
 - [FairEmail](https://email.faircode.eu/) : Email client.
 - [OsmAnd~](https://osmand.net/) : OpenMaps implementation.
