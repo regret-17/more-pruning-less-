@@ -4,7 +4,6 @@
 
 ## What is this list, How do i use it?
 - This list is basically just a collection of things I personally use, or think are useful, cool, or neat! I made it to both shine light on things I think deserve more attention, and to provide those I know with a useful list about how to do things or what services are good.
-- Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
 
 ## Contents
 - [General-Piracy](#general-piracy)
@@ -32,14 +31,6 @@
 - [Piracy.moe](https://piracy.moe/) Previously known as the anime index, a spreadsheet for anime, manga, and other weeb piracy warez
 - [Nyaa.si](https://nyaa.si/) Anime torrenting database. Probably the best out there. My first line of fire for anime piracy. [sukebei.nyaa.si](sukebei.nyaa.si) is their NSFW counterpart.
 - [Soulseek](https://www.slsknet.org/) Peer-to-Peer network for (mostly) music piracy. A lot like how Limewire worked. If you're on Linux use [Nicotine+](https://nicotine-plus.org/) to access soulseek.
-- [YayPonies](https://yayponies.no/) basically all official digital media for the My Little Pony franchise. Show, Movie, Comic Books, Bonus features, etc. They also link to sister sites hosting Star Vs The Forces of Evil and Wander Over Yonder content (and deprecated Ducktales and Steven Universe content).
-
-### Media-Servers
-- [Jellyfin](https://jellyfin.org/) Basically, host your own damn netflix, with blackjack and hookers! Free open source software, lets you stream media from your own server. You can even just give family and friends the website, username, and password, and they can stream your library too. Movies, Tv, Music, as well as a group watch feature which automatically syncs the video between viewers in case you're watching online together and dont want to have to manually sync every time someone wants to pause. Supports [a ton of devices](https://jellyfin.org/clients/).
-- [Plex](https://www.plex.tv) Similar to jellyfin, but with more bells, whistles, and plug-in support. Unfortunately, not open source, and contains paywalled features.
-    - [dizquetv](https://github.com/vexorian/dizquetv) A plug-in for plex which lets you create a live "TV channel" autopopulated from content on your plex server. You could even add TV Bumpers.
-    - [Retroarcher](https://github.com/RetroArcher) A plug-in for plex which also lets you stream videogames. Under heavy development.
-
 
 ## Videogames
 
@@ -49,9 +40,6 @@
 - [Vimm's Lair](https://vimm.net/?p=vault) Okay piracy site for downloading individual retro games, however limits the numbers of downloads you can have running at once, and can be quite slow.
 - [EmuParadise](https://www.emuparadise.me/Complete_ROM_Sets_(Full_Sets_in_One_File)_ROMs/List-All-Titles/37) Famous rom site that was sued by nintendo a few years back. Hasn't been the same since, but is still useful. Some games have been delisted by the site's search engine, so use 3rd party search engines to search games on their database.
     -[EmuParadise Workaround Script](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad) Is a [userscript](#userscripts) to allow downloading of games from EmuParadise again. Since nintendo sued them years ago. Most if not all the roms are still on their servers, they just removed the download links. On a game page use "download with workaround script".
-- [Archive.org Gamecube Collection by Ghostware](https://archive.org/details/GamecubeCollectionByGhostware) Full North American ISO set of gamecube games. Be sure to log in and either show all files and pick which you want, or get the torrent and manage from there in your torrent manager.
-- [Archive.org Wii Collection by Ghostware](https://archive.org/details/WiiRomSetByGhostware), [Part 2](https://archive.org/details/WiiRomSetByGhostwarePart2), [Part 3](https://archive.org/details/WiiRomSetByGhostwarePart3) 3 part collection of commercial Wii games.
-- [Archive.org WiiWare Collection by Ghostware](https://archive.org/details/WiiWareCollectionByGhostware) Full .wad set for WiiWare downloadable games from the Wii Shop Channel, virtual console included.
 - [NXBrew](https://nxbrew.com/) Site hosting Nintendo Switch NSPs (games).
 - [r/CrackWatch](https://old.reddit.com/r/CrackWatch/) Gaming piracy subreddit. Will tell you who cracked a game and removed it's DRM if a game has been cracked, which should give you enough information on where to find said cracked game. Also carries with it other useful info. Be sure to read the beginners guide on the sidebar.
 - [Pirated Games Mega Thread](https://rentry.co/pgames-mega-thread) Lists resources curated by those at r/CrackWatch, as well as some anti-recommendations so you know what to watch out for. Anything on my list superseeds anything here (at least for me) obviously.  
