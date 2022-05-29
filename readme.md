@@ -116,12 +116,11 @@
 - [Handbreak](https://handbrake.fr/) Video transcoder. Compress, convert, etc. Throw videos in and choose which format you want and watch the filesize shrink.
 - [Open Broadcast Software (OBS)](https://obsproject.com/) Best video recording and streaming software there is. Pretty self-explanitory.
 - [List of Adobe Alternatives](https://twitter.com/XdanielArt/status/1434611199140896772) Sick list of alternatives to adobe suite software. Useful for linux or if you just hate adobe (But, of course, pirating their software will always be moral :P )
-- [youtube-dl](https://ytdl-org.github.io/youtube-dl/) Command line program for downloading vids from youtube and [others](https://ytdl-org.github.io/youtube-dl/supportedsites.html), including mp3s and thumbnails. No more "youtube download mp3" searching for you. Albeit, if you insist on using a website, [AllTube](https://alltubedownload.net/) is a website that uses youtube-dl for it's backend. If you dont want to use command line, you can also get [youtube-dl GUI](https://github.com/jely2002/youtube-dl-gui).
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/) Breaks youtube's rolling encryption and lets you download video/audio streams. Remind me to share my ytdl commandline file.
 
 ## Cool Stuff
 - [15.ai](https://15.ai/) Accurate text to speech generator which mimicks characters from multiple franchises. Has a history of going down for a long time to be worked on, released for a short period, and so on. So make what you need while you have the chance.
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
-- [Nostalgic Kids' Sites](http://nostalgiakidssites.com/) An archival project managed by [Rare Noggin Stuff](https://www.youtube.com/c/RareNogginStuff) that's dedicated to hosting 00's and 10's websites aimed at pre-school children. Hosts snapshots of Nick Jr., Nick Jr. Playtime, PBS Kids, and PBS Sprout at the time of writing.
 
 
 ## Other
