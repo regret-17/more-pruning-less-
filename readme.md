@@ -1,4 +1,4 @@
-# Sighofrelief's List
+# Regretful's List (More Pruning, Less Trash!)
 
 - Please ensure you use [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time. (To be honest, you should always have this in general).
 - Notice any typos, errors, broken links, or out of date info? Have suggestions or questions? Please contact me on [my Twitter](https://twitter.com/sighrelief)!
@@ -158,22 +158,12 @@
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/) Command line program for downloading vids from youtube and [others](https://ytdl-org.github.io/youtube-dl/supportedsites.html), including mp3s and thumbnails. No more "youtube download mp3" searching for you. Albeit, if you insist on using a website, [AllTube](https://alltubedownload.net/) is a website that uses youtube-dl for it's backend. If you dont want to use command line, you can also get [youtube-dl GUI](https://github.com/jely2002/youtube-dl-gui).
 
 ## Cool Stuff
-- [Super Mario War (SMWStuff Continuation)](https://github.com/mmatyas/supermariowar) A fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. Super fun party game. Basically, Duck Game, before Duck Game, with goomba stomps. If you're not sold [here's a video showcasing the game and talking about it's history](https://www.youtube.com/watch?v=RqS7ad_BFg4)
-- [Power Bomberman](https://www.bombermanboard.com/viewtopic.php?t=1925) A feature-rich Bomberman fangame. supports up to 12 players, has over 650 characters, over 70 stages, and an unpresedented level of settings to tweak.
-- [Earthbound Battle Backgrounds](https://github.kdex.de/earthbound-battle-backgrounds) Generator for moving earthbound backgrounds. up/down/left/right arrows for controlls.
-- [Sierra Text Generator](http://deathgenerator.com/) Also known as Death Generator. Lets you create custom text boxes in the style of a ton of different games.
 - [15.ai](https://15.ai/) Accurate text to speech generator which mimicks characters from multiple franchises. Has a history of going down for a long time to be worked on, released for a short period, and so on. So make what you need while you have the chance.
-- [PetPet](https://benisland.neocities.org/petpet/) Tool for creating those petting gifs memes. 
-- [KidPix](https://kidpix.app/) A port of KidPix to browser
-- [Microsoft Paint](https://paint.js.org/) A javascript remake of Microsoft Paint to browser
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
 - [Nostalgic Kids' Sites](http://nostalgiakidssites.com/) An archival project managed by [Rare Noggin Stuff](https://www.youtube.com/c/RareNogginStuff) that's dedicated to hosting 00's and 10's websites aimed at pre-school children. Hosts snapshots of Nick Jr., Nick Jr. Playtime, PBS Kids, and PBS Sprout at the time of writing.
-- [3DMMForever](https://github.com/foone/3DMMForever) A fork of Microsoft 3D Movie Maker (1995) for modern systems. It's very new at the time of writing, since microsoft only just make 3DMM open source. The developer plans to work on some type of support for V3DMM and expansions according to their twitter. Please notify me if any major changes or alternative projects show up.
 
 
 ## Other
-- [diyhrt.github.io](https://diyhrt.github.io/) Do It Yourself Horomone Replacement Therapy. Especially useful if the system is failing you (underdosing, gatekeeping), but even barring that it's an alternative to be considered to give you more control over your transition and possibly even save you some dosh. Both feminizing and masculinizing horomone replacements are covered. Also just a good resource for learning about hrt and it's effects in general.
 - [Catbox.moe](https://catbox.moe/) A nice, free, minimum bullshit image and file cloud. Also check out [Litterbox](https://litterbox.catbox.moe/) for hosting files which are temporary in nature and can just be deleted whenever.
-- [Photopea](https://www.photopea.com/) A port of Adobe Photoshop to browser. Too good to be true and yet somehow it is. Works better than it has any right to. Use [Photopea Adblock](https://userstyles.org/styles/178522/adblock-photopea) as well. uBlock already blocks ads on photopea, but the space is still reserved for the ad. Using this will fill the whole screen and remove the adspace. This is a [userscript](#userscripts).
 - [Erowid](https://www.erowid.org/) A website dedicated to harm-reduction and education for a number of drugs. Includes sitable and non-sitable information (such as personal experiences, opinion pieces, media writings, etc., etc.,)
-- [Reddit](https://www.reddit.com) A website you're probably using wrong. It's invaluable for finding information within or about a given hobby, product, or niche. Tired of shitty listicles you get from your search engine when you just want to know what a good xyz is? Or how to fix a problem? or-- Reddit. Literally just add that key word to your searches and you'll get better results.
+- [Reddit](https://www.reddit.com) Used to be valuable for finding information about niche topics. If you still insist on using this echo-chamber site as a keyword, make sure the results are pre-2020.
