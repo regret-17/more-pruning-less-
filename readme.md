@@ -1,4 +1,4 @@
-# Regretful's List (More Pruning, Less Trash!)
+# Regretful's List (More Pruning, Less!)
 
 ## Wot's all this then?
 - Welcome to 2002, here's a loicense for using the 'net as it was supposed to be. Consider it a little complement to Igglybuff's awesome-piracy.
